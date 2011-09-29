@@ -1,3 +1,4 @@
+PasteScript==1.7.3
 Pyramid==1.2.1
 pleiades.transliteration==0.5
 
